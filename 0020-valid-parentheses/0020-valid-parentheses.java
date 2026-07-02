@@ -1,21 +1,14 @@
+import java.util.*;
+
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
-        Map<Character, Character> mapping = new HashMap<>();
-        mapping.put(')', '(');
-        mapping.put('}', '{');
-        mapping.put(']', '[');
-
-        for (char c : s.toCharArray()) {
-            if (mapping.containsKey(c)) { // closing bracket
-                char top = stack.isEmpty() ? '#' : stack.pop();
-                if (top != mapping.get(c)) {
-                    return false;
-                }
-            } else { // opening bracket
-                stack.push(c);
-            }
+        // Keep removing valid pairs until no more can be removed
+        while (s.contains("()") || s.contains("{}") || s.contains("[]")) {
+            s = s.replace("()", "");
+            s = s.replace("{}", "");
+            s = s.replace("[]", "");
         }
-        return stack.isEmpty();
+        // If string is empty → all brackets matched
+        return s.isEmpty();
     }
 }
