@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0084-largest-rectangle-in-histogram) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3620-network-recovery-pathways) |
 ## Stack
 |  |
 | ------- |
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -34,4 +37,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3620-network-recovery-pathways) |
+## Binary Search
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
