@@ -1,0 +1,44 @@
+/*
+ * Problem: Segregate 0s and 1s
+ * Difficulty: Easy
+ * * Given an array arr[] consisting of only 0's and 1's. 
+ * Modify the array in-place to segregate 0s onto the left side 
+ * and 1s onto the right side of the array.
+ * * Example:
+ * Input: arr[] = [0, 1, 0, 1, 0, 0, 1, 1, 1, 0]
+ * Output: [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+ */
+
+import java.util.Arrays;
+
+public class SegregateZerosAndOnes {
+
+    public static void segregate0and1(int[] arr) {
+        int noOfZero = 0;
+        
+        // Count the number of zeros
+        for (int ele : arr) {
+            if (ele == 0) {
+                noOfZero++;
+            }
+        }
+        
+        // Fill the array: 0s first, then 1s
+        for (int i = 0; i < arr.length; i++) {
+            if (noOfZero > 0) {
+                arr[i] = 0;
+                noOfZero--;
+            } else {
+                arr[i] = 1;
+            }
+        }
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {0, 1, 0, 1, 0, 0, 1, 1, 1, 0};
+        
+        System.out.println("Original Array: " + Arrays.toString(arr));
+        segregate0and1(arr);
+        System.out.println("Segregated Array: " + Arrays.toString(arr));
+    }
+}
