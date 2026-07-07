@@ -1,7 +1,7 @@
 // Method 1
 class Solution {
     public int peakIndexInMountainArray(int[] arr) {
-        int low =1; int high = arr.length -2;
+        int low =1; int high = arr.length -2; // LOW TO HIGH IS SEARCH SPACE-- Peak cannor be at arr[0] and arr[arr.length-1]
         while(low <= high){
             int mid= (low + high)/2;
             if(arr[mid]>arr[mid-1] && arr[mid]>arr[mid+1] && mid>0 && mid<arr.length-1) return mid;
