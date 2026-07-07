@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3620-network-recovery-pathways](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
