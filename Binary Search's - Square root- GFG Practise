@@ -1,0 +1,43 @@
+/**
+ * PROBLEM: Square Root
+ * Given a positive integer n, find the square root of n. 
+ * If n is not a perfect square, return the floor value.
+ *
+ * GFG LINK: https://www.geeksforgeeks.org/problems/square-root/1
+ *
+ * EXAMPLES:
+ * 1. Input: n = 4
+ * Output: 2
+ * 2. Input: n = 11
+ * Output: 3 (Floor of 3.316)
+ * 3. Input: n = 1
+ * Output: 1
+ *
+ * SOLUTION:
+ */
+
+class Solution {
+    int floorSqrt(int n) {
+        // Handle base case
+        if (n == 0 || n == 1) return n;
+
+        int low = 1;
+        int high = n;
+        int ans = 0;
+
+        while (low <= high) {
+            // Using long for mid * mid to prevent integer overflow for large n
+            long mid = low + (high - low) / 2;
+            
+            if (mid * mid == (long)n) {
+                return (int)mid;
+            } else if (mid * mid < (long)n) {
+                ans = (int)mid; // Store candidate
+                low = (int)mid + 1; // Try to find a larger square root
+            } else {
+                high = (int)mid - 1; // Too high, reduce range
+            }
+        }
+        return ans;
+    }
+}
