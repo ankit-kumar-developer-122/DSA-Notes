@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0441-arranging-coins) |
 ## Queue
 |  |
 | ------- |
