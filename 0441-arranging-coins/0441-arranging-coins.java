@@ -1,26 +1,18 @@
 class Solution {
     public int arrangeCoins(int n) {
-        long val = 8L * n + 1;
-        
-        // Applying the full quadratic formula: (sqrt(8n + 1) - 1) / 2
-        return (int)((mySqrt(val) - 1) / 2); 
-    }
-    public long mySqrt(long n) {
-        if (n == 0) return 0;
-        long low = 1; 
-        long high = n;
-        long ans = 0;
-        
-        while(low <= high) {
-            long mid = low + (high - low) / 2;
-            
-            if(mid == n / mid) return mid;
-            else if(mid > n / mid) high = mid - 1;
+        long lo = 0; long hi = n; long ans=0;
+        while( lo <= hi ){
+            long k = lo + (hi - lo)/2;
+            long m = k*(k+1)/2;
+            if(m==n) return (int)k;
+            else if(m>n){
+                hi = k-1;
+            }
             else {
-                ans = mid;
-                low = mid + 1;
+                ans = k;
+                lo = k+1;
             }
         }
-        return ans;
+        return (int)ans;
     }
 }
