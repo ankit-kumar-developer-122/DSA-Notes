@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0441-arranging-coins) |
+| [1025-divisor-game](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1025-divisor-game) |
 ## Queue
 |  |
 | ------- |
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0112-path-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
