@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0112-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0112-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0278-first-bad-version) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
