@@ -201,10 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
