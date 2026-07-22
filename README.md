@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3620-network-recovery-pathways) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3620-network-recovery-pathways) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0509-fibonacci-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
