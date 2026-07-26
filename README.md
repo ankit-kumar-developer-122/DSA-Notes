@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0239-sliding-window-maximum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2769-find-the-maximum-achievable-number) |
