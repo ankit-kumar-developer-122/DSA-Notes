@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0141-linked-list-cycle) |
 | [1331-rank-transform-of-an-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0141-linked-list-cycle) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -273,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1406-stone-game-iii) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
