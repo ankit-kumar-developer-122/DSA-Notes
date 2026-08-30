@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2256-minimum-average-difference](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2256-minimum-average-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
