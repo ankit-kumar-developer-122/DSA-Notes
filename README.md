@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1025-divisor-game) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0115-distinct-subsequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2213-longest-substring-of-one-repeating-character) |
