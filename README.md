@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -227,10 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0112-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Brainteaser
 |  |
 | ------- |
