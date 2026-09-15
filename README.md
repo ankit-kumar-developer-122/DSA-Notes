@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1406-stone-game-iii) |
@@ -339,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
