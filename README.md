@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2769-find-the-maximum-achievable-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3312-sorted-gcd-pair-queries) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2256-minimum-average-difference](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2256-minimum-average-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3903-smallest-stable-index-i) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3312-sorted-gcd-pair-queries) |
 ## Recursion
 |  |
