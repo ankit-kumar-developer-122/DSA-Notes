@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0141-linked-list-cycle) |
 | [1331-rank-transform-of-an-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1331-rank-transform-of-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0239-sliding-window-maximum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Monotonic Queue
