@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Enumeration
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1260-shift-2d-grid) |
+| [3498-reverse-degree-of-a-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
