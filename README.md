@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0239-sliding-window-maximum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0485-max-consecutive-ones) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0704-binary-search) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
