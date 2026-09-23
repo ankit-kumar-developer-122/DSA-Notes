@@ -1,14 +1,29 @@
+import java.util.Arrays;
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = i + 1; j < nums.length; j++) {
-                if (nums[i] + nums[j] == target) {
-                    return new int[]{i, j};
-                }
+        int n = nums.length;
+        int[][] pairs = new int[n][2];
+        for (int i = 0; i < n; i++) {
+            pairs[i][0] = nums[i];
+            pairs[i][1] = i;
+        }
+        Arrays.sort(pairs, (a, b) -> Integer.compare(a[0], b[0]));
+
+        int i = 0;
+        int j = n - 1;
+
+        while (i < j) {
+            int sum = pairs[i][0] + pairs[j][0];
+
+            if (sum == target) {
+                return new int[] { pairs[i][1], pairs[j][1] };
+            } else if (sum < target) {
+                i++;
+            } else {
+                j--;
             }
         }
-        // This part is theoretically unreachable given the problem constraints
-        // that exactly one solution exists.
-        return new int[]{};
+        return new int[] {};
     }
 }
