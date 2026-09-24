@@ -1,42 +1,27 @@
 class Solution {
-    class Pair {
-        Integer first , second;
+    public int[] topKFrequent(int[] nums, int k) {
+        HashMap<Integer, Integer> freq = new HashMap<>();
 
-        Pair(Integer first , Integer second) {
-            this.first = first;
-            this.second = second;
-        }
-    }
-
-    class myComp implements Comparator<Pair> {
-        @Override
-        public int compare(Pair L , Pair R) {
-            return R.first.compareTo(L.first);  
-        }
-    }
-
-    public int[] topKFrequent(int[] a, int k) {
-        HashMap<Integer , Integer> mp = new HashMap<>();
-
-        for(int i = 0; i < a.length; ++i) 
-            if(!mp.containsKey(a[i])) 
-                mp.put(a[i] , 1);
-            else
-               mp.put(a[i] , mp.get(a[i]) + 1);    
-
-        ArrayList<Pair> ArL = new ArrayList<>();  
-
-        for(Map.Entry<Integer , Integer> C : mp.entrySet()) {
-            ArL.add(new Pair(C.getValue() , C.getKey()));
+        // Count frequency using Hashmap
+        for (int num : nums) {
+            freq.put(num,freq.getOrDefault(num, 0) + 1);
         }
 
-        Collections.sort(ArL , new myComp());
+        // Converting HashMap to List , so that it can be sorted
+        List<Map.Entry<Integer, Integer>> list =
+                new ArrayList<>(freq.entrySet());
 
-        int [] ans = new int [k];
+        // Sort by VALUE in ascending order
+        list.sort(Map.Entry.comparingByValue());
 
-        for(int i = 0; i < k; ++i) 
-            ans[i] = ArL.get(i).second;
+        // Reverse -> VALUE descending
+        Collections.reverse(list);
 
-        return ans;     
+        // Get top k KEYS
+        int[] result = new int[k];
+        for (int i = 0; i < k; i++) {
+            result[i] = list.get(i).getKey();
+        }
+        return result;
     }
 }
