@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
