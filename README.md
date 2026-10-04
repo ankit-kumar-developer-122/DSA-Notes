@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0678-valid-parenthesis-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1025-divisor-game) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0678-valid-parenthesis-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
