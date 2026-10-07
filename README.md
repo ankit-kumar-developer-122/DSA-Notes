@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0301-remove-invalid-parentheses) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -438,4 +440,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
