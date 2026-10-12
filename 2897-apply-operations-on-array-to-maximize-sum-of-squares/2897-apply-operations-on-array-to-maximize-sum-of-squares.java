@@ -10,22 +10,18 @@ class Solution {
         }
         
         long[] maxArray = new long[nums.size()];
-        for (int i = 0; i < nums.size(); i++) {
-            long currentVal = 0;
-            for (int b = 0; b < 32; b++) {
-                if (bitCounts[b] > 0) {
-                    currentVal |= (1L << b);
-                    bitCounts[b]--;
-                }
+        for (int b = 0; b < 32; b++) {
+            long bitMask = 1L << b;
+            for (int i = 0; i < bitCounts[b]; i++) {
+                maxArray[i] |= bitMask;
             }
-            maxArray[i] = currentVal;
         }
         
         for (int i = 0; i < maxArray.length; i++) {
             maxArray[i] = maxArray[i] * maxArray[i];
         }
         
-        java.util.Arrays.sort(maxArray);
+        Arrays.sort(maxArray);
         
         long mod = 1000000007;
         long totalSum = 0;
