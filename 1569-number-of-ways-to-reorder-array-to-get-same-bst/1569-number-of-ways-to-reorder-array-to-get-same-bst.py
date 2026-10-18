@@ -1,20 +1,20 @@
 class Solution:
     def numOfWays(self, nums: list[int]) -> int:
-        MOD = 10**9 + 7
+        mod = 10**9 + 7
         
-        def solve(arr):
+        def count_ways(arr):
             if len(arr) <= 2:
                 return 1
             
             root = arr[0]
-            left = [x for x in arr if x < root]
-            right = [x for x in arr if x > root]
+            left_subtree = [x for x in arr if x < root]
+            right_subtree = [x for x in arr if x > root]
             
-            ways_left = solve(left)
-            ways_right = solve(right)
+            ways_left = count_ways(left_subtree)
+            ways_right = count_ways(right_subtree)
             
-            comb = math.comb(len(left) + len(right), len(left))
+            combinations = math.comb(len(left_subtree) + len(right_subtree), len(left_subtree))
             
-            return (comb * ways_left * ways_right) % MOD
+            return (combinations * ways_left * ways_right) % mod
             
-        return (solve(nums) - 1) % MOD
+        return (count_ways(nums) - 1) % mod
