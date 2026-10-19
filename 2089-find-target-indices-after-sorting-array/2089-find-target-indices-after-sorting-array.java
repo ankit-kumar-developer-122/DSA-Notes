@@ -9,7 +9,7 @@ class Solution {
             }
         }
         
-        List<Integer> result = new ArrayList<>();
+        List<Integer> result = new ArrayList<>(count);
         for (int i = 0; i < count; i++) {
             result.add(less + i);
         }
