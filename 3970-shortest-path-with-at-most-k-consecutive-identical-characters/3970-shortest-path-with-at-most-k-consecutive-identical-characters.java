@@ -32,18 +32,18 @@ class Solution {
                 continue;
             }
             
+            char uLabel = labels.charAt(u);
             for (int[] neighbor : adj[u]) {
                 int v = neighbor[0];
                 int w = neighbor[1];
-                int nextCount = 1;
+                int nextCount = (uLabel == labels.charAt(v)) ? count + 1 : 1;
                 
-                if (labels.charAt(u) == labels.charAt(v)) {
-                    nextCount = count + 1;
-                }
-                
-                if (nextCount <= k && weight + w < dist[v][nextCount]) {
-                    dist[v][nextCount] = weight + w;
-                    pq.offer(new int[]{v, dist[v][nextCount], nextCount});
+                if (nextCount <= k) {
+                    int newDist = weight + w;
+                    if (newDist < dist[v][nextCount]) {
+                        dist[v][nextCount] = newDist;
+                        pq.offer(new int[]{v, newDist, nextCount});
+                    }
                 }
             }
         }
