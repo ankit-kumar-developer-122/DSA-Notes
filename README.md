@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0704-binary-search) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/0836-rectangle-overlap) |
