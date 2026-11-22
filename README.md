@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2409-count-days-spent-together) |
