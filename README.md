@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2769-find-the-maximum-achievable-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Monotonic Queue
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/ankit-kumar-developer-122/DSA-Notes/tree/master/4010-maximize-pair-strength-using-gcd) |
