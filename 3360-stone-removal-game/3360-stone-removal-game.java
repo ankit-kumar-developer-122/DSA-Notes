@@ -1,12 +1,5 @@
 class Solution {
     public boolean canAliceWin(int n) {
-        int remove = 10;
-        boolean aliceTurn = true;
-        while (n >= remove && remove > 0) {
-            n -= remove;
-            remove--;
-            aliceTurn = !aliceTurn;
-        }
-        return !aliceTurn;
+        return (n >= 10 && n <= 18) || (n >= 27 && n <= 33) || (n >= 40 && n <= 44) || (n >= 49 && n <= 51) || n >= 54;
     }
 }
